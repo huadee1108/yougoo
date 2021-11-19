@@ -1,7 +1,10 @@
 import React from "react";
 import ban from '@images/ban.png';
 import ban2 from '@images/ban2.png';
-import writing1 from '@images/writing1.jpeg';
+import you1 from '@images/you1.jpg';
+import you2 from '@images/you2.jpg';
+import you3 from '@images/you3.jpg';
+import you4 from '@images/you4.jpg';
 import question from '@images/question.png';
 import right from '@images/right.png';
 import language from '@images/language.png';
@@ -21,15 +24,11 @@ function Home() {
                 <div className="flex flex-col md:flex-row px-4 md:px-24">
                     <div className="flex-1 pt-6 md:pt-12">
                         <div className="text-2xl md:text-3xl">
-                            <span className="text-seo">精细化SEO</span>
-                            <span className="text-title">——原创英文文章</span>
+                            <span className="text-seo">YouTube 频道权重</span>
+                            <span className="text-title">——直播视频曝光</span>
                         </div>
                         <p className="text-sm text-white mt-6 md:mt-10 pr-0 md:pr-14 leading-relaxed font-light">
-                            跨境电商推广，受众是外国人，不管你是做社交营销还是做seo，文案都是关键，
-                            大多数跨境企业目前还是采用招聘英语专8大学生的方式来写文章，
-                            但是中国人写的文章无论你经过多专业的训练还是不够Native，
-                            我们的写手都是欧美本地专业的编辑，经过多年合作筛选，文章质量有保证，
-                            另外相比于普通的写手服务，我们会对您的文章进行专业精细化的seo优化。
+                            提供独特且自然的SEO流量，增强直播视频展示数量 、视频曝光次数，提高YouTube频道权重、直播视频排名、回放视频排名，吸引更多的用户关注 。
                         </p>
                     </div>
                     <div className="flex-1 pt-6 md:pt-6">
@@ -39,22 +38,22 @@ function Home() {
             </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-12 mt-14 px-4 md:px-24">
                 <div className="text-sm">
-                    <img src={writing1} alt="" />
+                    <img src={you1} alt="" />
                     <p className="mt-4 mb-1 text-center">小语种翻译英语翻译为西班牙语</p>
                     <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p>
                 </div>
                 <div className="text-sm">
-                    <img src={writing1} alt="" />
+                    <img src={you2} alt="" />
                     <p className="mt-4 mb-1 text-center">小语种翻译英语翻译为西班牙语</p>
                     <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p>
                 </div>
                 <div className="text-sm">
-                    <img src={writing1} alt="" />
+                    <img src={you3} alt="" />
                     <p className="mt-4 mb-1 text-center">小语种翻译英语翻译为西班牙语</p>
                     <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p>
                 </div>
                 <div className="text-sm">
-                    <img src={writing1} alt="" />
+                    <img src={you4} alt="" />
                     <p className="mt-4 mb-1 text-center">小语种翻译英语翻译为西班牙语</p>
                     <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p>
                 </div>
