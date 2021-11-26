@@ -24,7 +24,7 @@ function Footer() {
                             我的订单
                         </a>
                         <a className="text-center md:text-left mb-1 text-gray-300 hover:text-from" href="https://stonedefi.medium.com/" target="_blank" rel="noreferrer">
-                            购买youtube订阅
+                            youtube
                         </a>
                     </div>
                 </div>

@@ -185,23 +185,23 @@ function Home() {
                     <div className="text-center md:text-left ml-0 md:ml-20">
                         <img src={seo} alt="" />
                         <div className="ml-0 md:ml-20 pl-0 md:pl-2">
-                            <Button className="w-64" type="primary" shape="round" size="large" style={{ background: '#FFDE56', borderColor: '#FFDE56', color: 'black' }}>点击购买粉丝点赞</Button>
+                            <Button className="w-64" type="primary" shape="round" size="large" style={{ background: '#FFDE56', borderColor: '#FFDE56', color: 'black' }}>点击服务</Button>
                         </div>
                         <div className="mt-8 ml-0 md:ml-20 pl-0 md:pl-2">
-                            <Button className="w-64 bg-butBg" type="primary" shape="round" size="large" style={{ background: '#FFDE56', borderColor: '#FFDE56', color: 'black' }}>点击购买粉丝点赞</Button>
+                            <Button className="w-64 bg-butBg" type="primary" shape="round" size="large" style={{ background: '#FFDE56', borderColor: '#FFDE56', color: 'black' }}>点击服务</Button>
                         </div>
                     </div>
                 </div>
             </div>
             <div className="px-4 md:px-24 grid grid-cols-1 md:grid-cols-2 mt-12 md:mt-20 pb-10 bg-gradient-to-r from-from to-to">
                 <div className="mt-10 md:mt-20">
-                    <div className="text-center text-3xl font-bold">找写手</div>
-                    <div className="text-center text-3xl font-bold mt-6">上虎客</div>
+                    <div className="text-center text-3xl font-bold">增加曝光</div>
+                    <div className="text-center text-3xl font-bold mt-6">上大棠</div>
                     <div className="text-center mt-8 md:mt-16">
-                        <Button className="w-64" type="primary" shape="round" size="large" style={{ background: '#FFDE56', borderColor: '#FFDE56', color: 'black' }}>点击购买粉丝点赞</Button>
+                        <Button className="w-64" type="primary" shape="round" size="large" style={{ background: '#FFDE56', borderColor: '#FFDE56', color: 'black' }}>点击服务</Button>
                     </div>
                     <div className="mt-10 text-center">
-                        <Button className="w-64 bg-butBg" type="primary" shape="round" size="large" style={{ background: '#FFDE56', borderColor: '#FFDE56', color: 'black' }}>点击购买粉丝点赞</Button>
+                        <Button className="w-64 bg-butBg" type="primary" shape="round" size="large" style={{ background: '#FFDE56', borderColor: '#FFDE56', color: 'black' }}>点击服务</Button>
                     </div>
                 </div>
                 <div className="text-left md:text-center mt-10 md:mt-0">
