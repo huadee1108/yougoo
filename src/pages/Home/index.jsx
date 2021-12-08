@@ -39,23 +39,23 @@ function Home() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-12 mt-14 px-4 md:px-24">
                 <div className="text-sm">
                     <img src={you1} alt="" />
-                    <p className="mt-4 mb-1 text-center">小语种翻译英语翻译为西班牙语</p>
-                    <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p>
+                    <p className="mt-4 mb-1 text-center">了解信息</p>
+                    {/* <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p> */}
                 </div>
                 <div className="text-sm">
                     <img src={you2} alt="" />
-                    <p className="mt-4 mb-1 text-center">小语种翻译英语翻译为西班牙语</p>
-                    <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p>
+                    <p className="mt-4 mb-1 text-center">了解信息</p>
+                    {/* <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p> */}
                 </div>
                 <div className="text-sm">
                     <img src={you3} alt="" />
-                    <p className="mt-4 mb-1 text-center">小语种翻译英语翻译为西班牙语</p>
-                    <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p>
+                    <p className="mt-4 mb-1 text-center">了解信息</p>
+                    {/* <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p> */}
                 </div>
                 <div className="text-sm">
                     <img src={you4} alt="" />
-                    <p className="mt-4 mb-1 text-center">小语种翻译英语翻译为西班牙语</p>
-                    <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p>
+                    <p className="mt-4 mb-1 text-center">了解信息</p>
+                    {/* <p className="text-center" style={{ color: '#a5c6bd' }}>￥299.00 - ￥1288.00</p> */}
                 </div>
             </div>
             <div className="mt-12 md:mt-24 px-4 md:px-24">
@@ -97,7 +97,7 @@ function Home() {
                 </div>
             </div>
             <div>
-                <h1 className="text-2xl md:text-3xl text-h1Color text-center font-bold mt-10 md:mt-4">英文写作为什么选虎客？</h1>
+                <h1 className="text-2xl md:text-3xl text-h1Color text-center font-bold mt-10 md:mt-4">英文写作为什么选大棠？</h1>
                 <div className="mt-6 md:mt-10 grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8 px-4 md:px-24">
                     <div className="border-l-4 border-qus rounded-xl bg-white flex py-6 px-6 shadow">
                         <div className="mr-6"><img src={language} alt="" /></div>

@@ -20,23 +20,17 @@ function Footer() {
                         <a className="text-center md:text-left mb-1 text-gray-300 hover:text-from" href="https://discord.com/invite/MyYqNBF8TP" target="_blank" rel="noreferrer">
                             咨询服务
                         </a>
-                        <a className="text-center md:text-left mb-1 text-gray-300 hover:text-from" href="https://t.me/stonefortress" target="_blank" rel="noreferrer">
-                            我的订单
-                        </a>
-                        <a className="text-center md:text-left mb-1 text-gray-300 hover:text-from" href="https://stonedefi.medium.com/" target="_blank" rel="noreferrer">
-                            youtube
-                        </a>
                     </div>
                 </div>
                 <div className="md:col-span-3 flex flex-col items-center md:items-start">
                     <div className="mb-2 md:mb-4 font-bold">有用的链接</div>
-                    <a className="mb-1 text-sm text-gray-300 hover:text-from" href="https://docs.stonedefi.io" target="_blank" rel="noreferrer">Documents</a>
-                    <a className="text-sm text-gray-300 hover:text-from" href="mailto:support@stonedefi.io" target="_blank" rel="noreferrer">support@stonedefi.io</a>
+                    <a className="mb-1 text-sm text-gray-300 hover:text-from" href="" target="_blank" rel="noreferrer">文档</a>
                 </div>
                 <div className="md:col-span-1 flex flex-col items-center md:items-start mt-2 md:mt-0 mb-3 md:mb-0">
                     联系我们
                 </div>
             </div>
+            <div className="text-white text-sm text-center mt-4 md:mt-8"><a className="text-white hover:text-from" href="https://beian.miit.gov.cn" target="_blank">粤ICP备2021167156号</a></div>
         </div>
     )
 }
